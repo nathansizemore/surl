@@ -4,6 +4,8 @@ Converts Spotify share links from URL to URI.
 
 ---
 
+## Usage
+
 ```
 surl - Converts Spotify share links from URL to URI
 
